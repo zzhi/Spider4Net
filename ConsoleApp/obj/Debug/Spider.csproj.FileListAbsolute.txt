@@ -1,0 +1,11 @@
+E:\Spider4Net\ConsoleApp\bin\Debug\HtmlAgilityPack.dll
+E:\Spider4Net\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+E:\Spider4Net\ConsoleApp\bin\Debug\HtmlAgilityPack.pdb
+E:\Spider4Net\ConsoleApp\bin\Debug\HtmlAgilityPack.xml
+E:\Spider4Net\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+E:\Spider4Net\ConsoleApp\bin\Debug\Spider.exe.config
+E:\Spider4Net\ConsoleApp\bin\Debug\Spider.exe
+E:\Spider4Net\ConsoleApp\bin\Debug\Spider.pdb
+E:\Spider4Net\ConsoleApp\obj\Debug\Spider.exe
+E:\Spider4Net\ConsoleApp\obj\Debug\Spider.pdb
+E:\Spider4Net\ConsoleApp\obj\Debug\Spider.csprojResolveAssemblyReference.cache

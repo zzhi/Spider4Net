@@ -1,0 +1,7 @@
+E:\Spider4Net\SpiderTest\bin\Debug\SpiderTest.dll
+E:\Spider4Net\SpiderTest\bin\Debug\SpiderTest.pdb
+E:\Spider4Net\SpiderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Spider4Net\SpiderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Spider4Net\SpiderTest\obj\Debug\SpiderTest.csprojResolveAssemblyReference.cache
+E:\Spider4Net\SpiderTest\obj\Debug\SpiderTest.dll
+E:\Spider4Net\SpiderTest\obj\Debug\SpiderTest.pdb
