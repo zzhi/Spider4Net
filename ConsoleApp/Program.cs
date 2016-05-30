@@ -14,7 +14,7 @@ namespace Spider
     {
         static void Main(string[] args)
         {
-            ZhiHu zh = new ZhiHu("18515496613","qazwsx123");
+            ZhiHu zh = new ZhiHu("18515491234","wsxedc123");
             var d= zh.HttpClientTest();
             //zh.Login();
             //var b = zh.Login();
